@@ -7,6 +7,8 @@ ryzen 5 3500U
 vega 8
 wifi intel 8265
 
+# Feel free to make it better! If you find better alternatives, suggest an edit!
+
 # Not working
 - cardreader? (not tested)
 - camera? (not tested)
